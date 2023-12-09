@@ -1,0 +1,14 @@
+C:\Users\leonm\OneDrive - me.thm.de\Acer Laptop\OneDrive - me.thm.de\Dokumente\Studium\Ausland\Kurse\RKE132IndroductiontoProgramming\Week7\Week7SecondPart\bin\Debug\net8.0\Week7SecondPart.exe
+C:\Users\leonm\OneDrive - me.thm.de\Acer Laptop\OneDrive - me.thm.de\Dokumente\Studium\Ausland\Kurse\RKE132IndroductiontoProgramming\Week7\Week7SecondPart\bin\Debug\net8.0\Week7SecondPart.deps.json
+C:\Users\leonm\OneDrive - me.thm.de\Acer Laptop\OneDrive - me.thm.de\Dokumente\Studium\Ausland\Kurse\RKE132IndroductiontoProgramming\Week7\Week7SecondPart\bin\Debug\net8.0\Week7SecondPart.runtimeconfig.json
+C:\Users\leonm\OneDrive - me.thm.de\Acer Laptop\OneDrive - me.thm.de\Dokumente\Studium\Ausland\Kurse\RKE132IndroductiontoProgramming\Week7\Week7SecondPart\bin\Debug\net8.0\Week7SecondPart.dll
+C:\Users\leonm\OneDrive - me.thm.de\Acer Laptop\OneDrive - me.thm.de\Dokumente\Studium\Ausland\Kurse\RKE132IndroductiontoProgramming\Week7\Week7SecondPart\bin\Debug\net8.0\Week7SecondPart.pdb
+C:\Users\leonm\OneDrive - me.thm.de\Acer Laptop\OneDrive - me.thm.de\Dokumente\Studium\Ausland\Kurse\RKE132IndroductiontoProgramming\Week7\Week7SecondPart\obj\Debug\net8.0\Week7SecondPart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonm\OneDrive - me.thm.de\Acer Laptop\OneDrive - me.thm.de\Dokumente\Studium\Ausland\Kurse\RKE132IndroductiontoProgramming\Week7\Week7SecondPart\obj\Debug\net8.0\Week7SecondPart.AssemblyInfoInputs.cache
+C:\Users\leonm\OneDrive - me.thm.de\Acer Laptop\OneDrive - me.thm.de\Dokumente\Studium\Ausland\Kurse\RKE132IndroductiontoProgramming\Week7\Week7SecondPart\obj\Debug\net8.0\Week7SecondPart.AssemblyInfo.cs
+C:\Users\leonm\OneDrive - me.thm.de\Acer Laptop\OneDrive - me.thm.de\Dokumente\Studium\Ausland\Kurse\RKE132IndroductiontoProgramming\Week7\Week7SecondPart\obj\Debug\net8.0\Week7SecondPart.csproj.CoreCompileInputs.cache
+C:\Users\leonm\OneDrive - me.thm.de\Acer Laptop\OneDrive - me.thm.de\Dokumente\Studium\Ausland\Kurse\RKE132IndroductiontoProgramming\Week7\Week7SecondPart\obj\Debug\net8.0\Week7SecondPart.dll
+C:\Users\leonm\OneDrive - me.thm.de\Acer Laptop\OneDrive - me.thm.de\Dokumente\Studium\Ausland\Kurse\RKE132IndroductiontoProgramming\Week7\Week7SecondPart\obj\Debug\net8.0\refint\Week7SecondPart.dll
+C:\Users\leonm\OneDrive - me.thm.de\Acer Laptop\OneDrive - me.thm.de\Dokumente\Studium\Ausland\Kurse\RKE132IndroductiontoProgramming\Week7\Week7SecondPart\obj\Debug\net8.0\Week7SecondPart.pdb
+C:\Users\leonm\OneDrive - me.thm.de\Acer Laptop\OneDrive - me.thm.de\Dokumente\Studium\Ausland\Kurse\RKE132IndroductiontoProgramming\Week7\Week7SecondPart\obj\Debug\net8.0\Week7SecondPart.genruntimeconfig.cache
+C:\Users\leonm\OneDrive - me.thm.de\Acer Laptop\OneDrive - me.thm.de\Dokumente\Studium\Ausland\Kurse\RKE132IndroductiontoProgramming\Week7\Week7SecondPart\obj\Debug\net8.0\ref\Week7SecondPart.dll
